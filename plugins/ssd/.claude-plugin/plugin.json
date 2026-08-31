@@ -1,0 +1,9 @@
+{
+  "name": "ssd",
+  "version": "0.1.0",
+  "description": "Senior engineering judgment to produce compact and maintainable codebase with correct abstractions and sound reuse while avoiding over-defense.",
+  "author": {
+    "name": "Local developer",
+    "url": "https://github.com/yongchanghao"
+  }
+}

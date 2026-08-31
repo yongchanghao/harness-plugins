@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "personal",
+  "description": "Personal plugins",
+  "owner": {
+    "name": "Local developer",
+    "url": "https://github.com/yongchanghao"
+  },
+  "plugins": [
+    {
+      "name": "ssd",
+      "description": "Senior engineering judgment to produce compact and maintainable codebase with correct abstractions and sound reuse while avoiding over-defense.",
+      "source": "./plugins/ssd",
+      "category": "development"
+    }
+  ]
+}

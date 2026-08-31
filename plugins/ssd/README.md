@@ -1,0 +1,1 @@
+# Smart Senior Developer Plugin
