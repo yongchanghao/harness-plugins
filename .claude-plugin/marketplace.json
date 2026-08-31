@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "personal",
-  "description": "Personal plugins",
+  "name": "harness-plugins",
+  "description": "Personal harness plugins",
   "owner": {
     "name": "Local developer",
     "url": "https://github.com/yongchanghao"
@@ -11,7 +11,8 @@
       "name": "ssd",
       "description": "Senior engineering judgment to produce compact and maintainable codebase with correct abstractions and sound reuse while avoiding over-defense.",
       "source": "./plugins/ssd",
-      "category": "development"
+      "category": "development",
+      "homepage": "https://github.com/yongchanghao/harness-plugins/tree/main/plugins/ssd"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "name": "personal",
+  "name": "harness-plugins",
   "interface": {
-    "displayName": "Personal"
+    "displayName": "Personal harness plugins"
   },
   "plugins": [
     {
