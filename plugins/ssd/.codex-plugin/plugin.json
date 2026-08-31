@@ -1,0 +1,22 @@
+{
+  "name": "ssd",
+  "version": "0.1.0",
+  "description": "Senior engineering judgment to produce compact and maintainable codebase with correct abstractions and sound reuse while avoiding over-defense.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Smart Senior Developer",
+    "shortDescription": "Maintainable code with correct abstractions without over-defense",
+    "longDescription": "Produce the code with abstractions that lower cognitive load, reuse sound code and trusted dependencies, and ship coherent changes without speculative defense.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "defaultPrompt": [
+      "Apply Smart Senior Developer judgment to this coding task.",
+      "Review this design for abstraction, reuse, performance, and over-defense.",
+      "Find the coherent system-level fix, using broad refactoring when warranted."
+    ]
+  }
+}
